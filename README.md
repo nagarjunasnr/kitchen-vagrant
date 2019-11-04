@@ -14,7 +14,7 @@ required.
 
 ### <a name="requirements">Requirements</a> 
 
-### <a name="dependencies-vagrant"></a> Vagrant
+## <a name="dependencies-vagrant"></a> Vagrant
 
 A Vagrant version of 1.1.0 or higher is required for this driver which means
 that a [native package][vagrant_dl] must be installed on the system running
