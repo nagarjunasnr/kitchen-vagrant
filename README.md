@@ -12,7 +12,7 @@ sandboxed directory. Since the Vagrantfile is written out on disk, Vagrant
 needs absolutely no knowledge of Test Kitchen. So no Vagrant plugins are
 required.
 
-## <a name="requirements">Requirements</a> 
+### <a name="requirements">Requirements</a> 
 
 ### <a name="dependencies-vagrant"></a> Vagrant
 
